@@ -30,24 +30,12 @@
 	}
 }
 
-
-
-
-
-entWatch Color List:
-{default}
-{darkred}
-{pink}
-{green}
-{lightgreen}
-{lime}
-{red}
-{grey}
-{olive}
-{lightblue}
-{blue}
-{purple}
-{darkorange}
-{orange}
-{a}
-{d}
+red - {red} {darkred} {lightred}
+blue - {lightblue} {blue} {cyan}
+yellow - {yellow} {olive}
+green - {green} {lightgreen} {lime}
+orange - {orange} {darkorange}
+white - {default} {white} 
+purple - {purple} {magenta}
+pink - {pink}
+gray - {silver} {a} {d} {bluegrey} {grey} {gray}
