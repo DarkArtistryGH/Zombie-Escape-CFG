@@ -24,9 +24,11 @@
 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 with cooldowns, 5 = Cooldowns after multiple uses
 		"maxuses"			"0"			//Integer, Maximum uses for modes 3,4,5
 		"cooldown"			"0"			//Integer, Cooldown of item for modes 2,4,5
-		"buttonid"			"0"			//Integer, NEW! Allows you to set the main button for which the cooldown will be considered. Use HammerID  　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　of button
+		"buttonid"			"0"			//Integer, NEW! Allows you to set the main button for which the cooldown will be considered. 
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 Use HammerID of button  　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 		"trigger"			"0"			//Integer, Sets a trigger that a restrict player cannot activate
-		"pt_spawner"			""			//String, NEW! Allows admins to spawn items. Can break the gameplay of the game on the map. Indicate     Point_Template, which spawn the item
+		"pt_spawner"			""			//String, NEW! Allows admins to spawn items. Can break the gameplay of the game on the map. 
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 Indicate Point_Template, which spawn the item
 	}
 }
 
