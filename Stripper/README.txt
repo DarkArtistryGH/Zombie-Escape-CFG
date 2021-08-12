@@ -19,4 +19,4 @@ it will search for the exact property key and value "filtername" "zombie", and t
 ———————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
 insert: This sub-block will insert the specified value from the key value pair inside the sub-block. In the example, 
 it inserts "wait" "0" which is a keyvalue for trigger_multiples that determines how fast it can be re-triggered.
-———————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
