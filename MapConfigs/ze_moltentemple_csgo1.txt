@@ -1,0 +1,5 @@
+ForceConVar("sv_accelerate", "5");
+ForceConVar("sv_friction", "4");
+ForceConVar("sv_staminamax", "0");
+ForceConVar("sv_staminalandcost", "0");
+ForceConVar("sv_staminajumpcost", "0");
