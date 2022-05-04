@@ -1,5 +1,6 @@
-//	https://github.com/darnias/Vscripts/blob/master/scripts/give_knife.nut
-/*
+//  Author - https://github.com/darnias/Vscripts/blob/master/scripts/give_knife.nut
+//  I decided to keep it for myself so as not to lose
+/* 
     Purpose:
     Gives activator a knife that you normally can't pick up
     Removes players current knife if he has one
