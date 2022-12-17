@@ -17,3 +17,4 @@
  All configs here can be used by any ze server.
 
  The configs may work with other similar plugins but i give no guarantees!
+
